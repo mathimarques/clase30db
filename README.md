@@ -1,1 +1,1 @@
-# Administración de las notas
+# Administración de notas
